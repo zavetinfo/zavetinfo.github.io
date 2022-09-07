@@ -2,7 +2,7 @@
   "name": "zavet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zavetinfo.github.io/zavet",
+  "homepage": "http://zavetinfo.github.io/",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
